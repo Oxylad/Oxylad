@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![My Stats](https://github-readme-stats.vercel.app/api?username=Oxylad&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Technologies](https://github-readme-stats.vercel.app/api/top-langs/?username=Oxylad&langs_count=3&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
