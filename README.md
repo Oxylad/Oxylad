@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I like to take pics sometimes when i'm not lazy
+
+Discord: @oxylad
+Instagram: oscar.grt
+
+
 <!--
 **Oxylad/Oxylad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
