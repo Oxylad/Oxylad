@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 [![Top Technologies](https://github-readme-stats.vercel.app/api/top-langs/?username=Oxylad&langs_count=3&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="http://github-readme-streak-stats.herokuapp.com?user=oxylad&theme=tokyonight&hide_border=true" alt="oxylad" />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=oxylad&theme=tokyonight&hide_border=true&" alt="oxylad" />
 
 
 
