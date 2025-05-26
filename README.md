@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 -->  
 <a href=""><img src="https://komarev.com/ghpvc/?username=oxylad&style=for-the-badge" alt="rien"/></a>
 
-[![My Stats](https://github-readme-stats.vercel.app/api?username=Oxylad&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![My Stats](https://github-readme-stats-plum-five-96.vercel.app/api?username=Oxylad&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Technologies](https://github-readme-stats.vercel.app/api/top-langs/?username=Oxylad&langs_count=3&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Technologies](https://github-readme-stats-plum-five-96.vercel.app/api/top-langs/?username=Oxylad&langs_count=3&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="http://github-readme-streak-stats.herokuapp.com?user=oxylad&theme=tokyonight&hide_border=true" alt="oxylad" />
+<img src="http://github-readme-streak-stats-vert-xi.vercel.app?user=oxylad&theme=tokyonight&hide_border=true" alt="oxylad" />
 
 
 
