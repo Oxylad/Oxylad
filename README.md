@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 
 
-Server I'am part of support staff
+Server I am part of support staff
 
 <a href="https://discord.gg/zJyE39J"><img src="https://img.shields.io/discord/699989534724849685?color=%235865F2&label=FlaviBot%20Support&style=for-the-badge" alt="flavibot support"/></a>
 
